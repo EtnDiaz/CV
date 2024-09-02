@@ -57,7 +57,7 @@
             <h2>Professional Experience</h2>
 
             <div class="experience-entry">
-                <h3>Senior DevOps Engineer, Luxoft</h3>
+                <h3>Senior DevOps Engineer, <li><i class="devicon-luxoft-plain colored"></i> Luxoft</h3>
                 <p>Belgrade, Serbia | 10/2022 - Present</p>
                 <ul>
                     <li>Implemented GitLab IaC, integrating external tools, and managing Kubernetes deployments.</li>
@@ -139,6 +139,19 @@
         </div>
     </footer>
 
+
+    <section class="section">
+        <div class="container has-text-centered">
+            <button id="downloadBtn" class="button is-info">Download as PDF</button>
+        </div>
+    </section>
+
+    <script>
+        document.getElementById('downloadBtn').addEventListener('click', function () {
+            window.print();
+        });
+    </script>
 </body>
+
 
 </html>
