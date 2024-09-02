@@ -1,22 +1,21 @@
-/* styles.css */
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #121212; /* Темный фон */
-    color: #ffffff; /* Белый текст */
+    background-color: #121212;
+    color: #ffffff;
     margin: 0;
     padding: 0;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
 
 header {
     text-align: center;
-    padding: 50px 20px;
+    padding: 1px 1px;
     background-color: #000000;
     border-bottom: 2px solid #ffffff;
 }
