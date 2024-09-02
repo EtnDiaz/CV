@@ -1,0 +1,41 @@
+body {
+    background-color: #000000; /* Black background */
+    color: #FFFFFF; /* White text for contrast */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #FFFFFF; /* White headers */
+}
+
+a {
+    color: #1E90FF; /* Dodger Blue links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.projects-list {
+    margin: 20px 0;
+}
+
+.projects-list li {
+    margin-bottom: 10px;
+}
+
+header, footer {
+    background-color: #1E1E1E; /* Dark gray for header and footer */
+    color: #FFFFFF;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.content {
+    padding: 20px;
+    background-color: #1A1A1A; /* Slightly lighter black for content areas */
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

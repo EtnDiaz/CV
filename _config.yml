@@ -1,0 +1,16 @@
+title: Nikita Evseev
+description: Site Reliability Engineer with a passion for optimizing infrastructure and enabling seamless deployments.
+baseurl: "" 
+url: "https://yourusername.github.io"
+theme: Cayman
+
+author:
+  name: Nikita Evseev
+  email: nikita@example.com
+  avatar: /assets/images/avatar.jpg 
+  bio: "Expert in Gitlab, Kubernetes, Terraform, and Blockchain technology."
+
+social:
+  github: https://github.com/etndiaz
+  linkedin: https://www.linkedin.com/in/nikita-evseev
+  Gitlab: https://gitlab.com/EvnMiller

@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Home
+title: "Home"
 ---
+
+<div class="content">
 # Welcome to My Portfolio
 
-I'm Nikita Evseev, a Site Reliability Engineer (SRE) with extensive experience in managing and optimizing infrastructure for high-scale applications.
+Hi, I'm **Nikita Evseev**, a Site Reliability Engineer specializing in Kubernetes, Terraform, and Blockchain technologies.
 
-- [Experience](experience.md)
-- [Projects](projects.md)
-- [Skills](skills.md)
+[Explore My Experience](experience.md) | [View My Projects](projects.md) | [See My Skills](skills.md)
+</div>
